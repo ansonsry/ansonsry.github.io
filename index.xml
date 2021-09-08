@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://ansonsry.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Sep 2021 17:56:53 +0800</lastBuildDate><atom:link href="https://ansonsry.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java Basics</title>
+      <link>https://ansonsry.github.io/post/java-basics/</link>
+      <pubDate>Wed, 08 Sep 2021 17:56:53 +0800</pubDate>
+      
+      <guid>https://ansonsry.github.io/post/java-basics/</guid>
+      <description>gachi285 gachi659 gachi713 gachi946 gachi719 gachi693 gachi1148 gachi1151 gachi644 gachi929 gachi883 gachi824 gachi505 gachi582 gachi598 gachi613 gachi672 gachi615</description>
+    </item>
+    
+  </channel>
+</rss>
